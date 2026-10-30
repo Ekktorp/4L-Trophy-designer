@@ -1,6 +1,10 @@
 # 🚙 4L Trophy – Designer de Sponsors
 
-Un outil interactif pour personnaliser et visualiser sa 4L Trophy, ajouter des sponsors et créer une décoration unique avant le départ du raid !
+![Aperçu du Designer de Sponsors](./screenshot.png)
+
+Un projet né d'une idée : créer un outil simple et intuitif pour imaginer la décoration de sa 4L Trophy, visualiser ses sponsors et concevoir un habillage personnalisé avant le grand départ !
+
+À partir de cette idée et de mes envies, j'ai utilisé **Claude (Anthropic)** pour concevoir et développer cette application, en faisant évoluer le résultat au fil de mes indications.
 
 ## 🌐 Accéder à l'application
 
@@ -32,10 +36,12 @@ Attention : les projets exportés peuvent contenir les informations et logos ajo
 
 ## 🛠️ Technologies
 
-Application web autonome basée sur HTML, CSS et JavaScript, avec des bibliothèques externes pour les fonctionnalités graphiques.
+Application web basée sur HTML, CSS et JavaScript, avec plusieurs bibliothèques externes pour les fonctionnalités graphiques.
 
-Hébergement assuré par **GitHub Pages**.
+- **Idée et direction du projet :** conception personnelle
+- **Développement :** réalisé avec l'aide de Claude (Anthropic)
+- **Hébergement :** GitHub Pages
 
 ---
 
-*Projet indépendant réalisé autour de l'univers du 4L Trophy.*
+*Une idée personnelle devenue un petit outil concret pour préparer l'aventure 4L Trophy !* 🚙
